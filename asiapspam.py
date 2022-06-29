@@ -4,9 +4,10 @@ url_api_spam_wa_mantan = "https://aink-sanz.herokuapp.com/api/free-tutorial-spam
 
 os.system("clear")
 os.system("figlet Spam")
-print("[-] Creator : MasLucknut_2")
+print("[-] Creator   : MasLucknut_2")
 print("[-] Instagram : maslucknut2")
-print("[-] Wa : +6281384307028")
+print("[-] Wa        : +6281384307028")
+print("[+] Github    : https://github.com/MasLucknut02")
 print(" Have fun aja banh")
 print("Jangan dibuat serius")
 nomor = input("\n[?] input Nomor : ")
