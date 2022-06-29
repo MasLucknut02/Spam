@@ -3,7 +3,7 @@ import requests, os
 url_api_spam_wa_mantan = "https://aink-sanz.herokuapp.com/api/free-tutorial-spam-wa"
 
 os.system("clear")
-os.system("figlet Spam")
+os.system("figlet Spam Chat")
 print("[-] Creator   : MasLucknut_2")
 print("[-] Instagram : maslucknut2")
 print("[-] Wa        : +6281384307028")
